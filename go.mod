@@ -1,4 +1,4 @@
-module github.com/Solidsilver/go-ffp
+module github.com/Solidsilver/ffp
 
 go 1.21.1
 
